@@ -11,6 +11,7 @@
 # Usage
 
     $ make html-coverage
+    $ firefox htmlcov/index.html #chromium htmlcov/index.html
 
     $ make help
 
